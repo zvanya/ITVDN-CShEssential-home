@@ -16,6 +16,7 @@ namespace AdditionalTask
     public string Apartment { get; set; }
 
   }
+
   class Program
   {
     static void Main(string[] args)

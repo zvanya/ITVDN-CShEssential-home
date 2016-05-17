@@ -4,3 +4,6 @@ D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\001_Classes\Additi
 D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\001_Classes\AdditionalTask\AdditionalTask\bin\Debug\AdditionalTask.pdb
 D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\001_Classes\AdditionalTask\AdditionalTask\obj\Debug\AdditionalTask.exe
 D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\001_Classes\AdditionalTask\AdditionalTask\obj\Debug\AdditionalTask.pdb
+D:\users\vanya\learning\[ITVDN]-C#Basic\MyHomeWork[home]\001_Classes\AdditionalTask\AdditionalTask\bin\Debug\AdditionalTask.exe.config
+D:\users\vanya\learning\[ITVDN]-C#Basic\MyHomeWork[home]\001_Classes\AdditionalTask\AdditionalTask\obj\Debug\AdditionalTask.exe
+D:\users\vanya\learning\[ITVDN]-C#Basic\MyHomeWork[home]\001_Classes\AdditionalTask\AdditionalTask\obj\Debug\AdditionalTask.pdb
