@@ -1,0 +1,6 @@
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\004_AbstractInterface\004_AbstractInterface\AddTask\bin\Debug\AddTask.exe.config
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\004_AbstractInterface\004_AbstractInterface\AddTask\bin\Debug\AddTask.exe
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\004_AbstractInterface\004_AbstractInterface\AddTask\bin\Debug\AddTask.pdb
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\004_AbstractInterface\004_AbstractInterface\AddTask\obj\Debug\AddTask.csprojResolveAssemblyReference.cache
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\004_AbstractInterface\004_AbstractInterface\AddTask\obj\Debug\AddTask.exe
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\004_AbstractInterface\004_AbstractInterface\AddTask\obj\Debug\AddTask.pdb

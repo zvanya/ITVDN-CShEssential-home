@@ -1,0 +1,6 @@
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\002_Classes\002_Classes\Task3\bin\Debug\Task3.exe.config
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\002_Classes\002_Classes\Task3\bin\Debug\Task3.exe
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\002_Classes\002_Classes\Task3\bin\Debug\Task3.pdb
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\002_Classes\002_Classes\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\002_Classes\002_Classes\Task3\obj\Debug\Task3.exe
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\002_Classes\002_Classes\Task3\obj\Debug\Task3.pdb

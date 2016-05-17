@@ -1,0 +1,6 @@
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\003_Inheritance\003_Inheritance\Task02\bin\Debug\Task02.exe.config
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\003_Inheritance\003_Inheritance\Task02\bin\Debug\Task02.exe
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\003_Inheritance\003_Inheritance\Task02\bin\Debug\Task02.pdb
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\003_Inheritance\003_Inheritance\Task02\obj\Debug\Task02.exe
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\003_Inheritance\003_Inheritance\Task02\obj\Debug\Task02.pdb
+D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\003_Inheritance\003_Inheritance\Task02\obj\Debug\Task02.csprojResolveAssemblyReference.cache
