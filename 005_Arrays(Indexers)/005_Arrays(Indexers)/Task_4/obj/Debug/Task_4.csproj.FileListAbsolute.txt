@@ -4,3 +4,6 @@ D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\005_Arrays(Indexer
 D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\005_Arrays(Indexers)\005_Arrays(Indexers)\Task_4\bin\Debug\Task_4.pdb
 D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\005_Arrays(Indexers)\005_Arrays(Indexers)\Task_4\obj\Debug\Task_4.exe
 D:\users\vanya\work\!dummy\lessons\[ITVDN]-C#Basic\MyHomeWork\005_Arrays(Indexers)\005_Arrays(Indexers)\Task_4\obj\Debug\Task_4.pdb
+D:\users\vanya\learning\[ITVDN]-C#Basic\MyHomeWork[home]\005_Arrays(Indexers)\005_Arrays(Indexers)\Task_4\bin\Debug\Task_4.exe.config
+D:\users\vanya\learning\[ITVDN]-C#Basic\MyHomeWork[home]\005_Arrays(Indexers)\005_Arrays(Indexers)\Task_4\obj\Debug\Task_4.exe
+D:\users\vanya\learning\[ITVDN]-C#Basic\MyHomeWork[home]\005_Arrays(Indexers)\005_Arrays(Indexers)\Task_4\obj\Debug\Task_4.pdb
